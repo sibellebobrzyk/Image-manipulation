@@ -1,2 +1,1 @@
-# Image-manipulation
- A console application in C for Windows that processes BMP images, displaying file info, converting to grayscale, cropping, and saving as a C array or monochrome based on a user-defined threshold.
+The program is a console application in C for Windows that processes BMP images. It can open BMP files, display information such as file name and image size, convert the image to grayscale, save the converted version with "_gs" in the name, and perform a specific crop of the image. This crop is saved as a C array in a .h file. It also converts images to monochrome based on a user-defined threshold value.
